@@ -3,7 +3,7 @@
 BhashaVerse is an open-source Streamlit application designed to collect and preserve culturally rich Indian proverbs and folk sayings from across the country. The platform invites users to contribute proverbs in their **native languages** and optionally share the **meaning or story** behind them.
 
 ### 🌐 Live Demo
-👉 [Try it on Hugging Face Spaces](https://huggingface.co/spaces/your-username/BhashaVerse)
+👉 [Try it on Browser](https://mmbhashaverse.streamlit.app/)
 
 ---
 
@@ -23,8 +23,8 @@ BhashaVerse is an open-source Streamlit application designed to collect and pres
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/madhanmohanreddy16/BhashaVerse.git
-cd BhashaVerse
+git clone https://github.com/madhanmohanreddy16/Bhashaverse.git
+cd Bhashaverse
 
 ## install dependencies
 pip install -r requirements.txt
